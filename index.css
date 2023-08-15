@@ -1,0 +1,25 @@
+
+
+body{
+	height:1000px;
+	width:100%;
+}
+
+input {
+	
+	width:200px;
+	height:50px;
+	border-radius:5px;
+}
+
+
+
+p{
+	width:200px;
+	height:30px;
+	border-radius:5px;
+    border:solid black 1px;
+	text-align:center;
+	}
+
+
